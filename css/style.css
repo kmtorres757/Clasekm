@@ -1,0 +1,174 @@
+body{
+	width: 960px;
+	margin: 0 auto;
+	background: url('../imagene/fondod.jpg');
+
+}
+@font-face{
+	font-family: ShadowsIntoLight;
+	src:url('../fonts/ShadowsIntoLight.ttf' );
+}
+.letraSena{
+	font-family: ShadowsIntoLight;
+
+}	
+
+h1{
+color: #8E44AD;
+text-align: center;
+text-transform: uppercase;
+
+}
+#content{
+	overflow: auto;
+	height:	100;
+
+}
+#cn{
+	overflow: auto;
+	height:	100;
+
+}
+#cun{
+	overflow: auto;
+	height:	100;
+
+}
+#con{
+	overflow: auto;
+	height:	100;
+
+}
+.c1, .c2, .c3{
+background-color: #F4EAE8;
+width: 285px;
+height:300px; 
+float: left;
+margin: 10px;
+font-size: 19px;
+ text-transform: uppercase;
+ border-radius: 15px;
+ padding: 6px;
+
+
+}
+ #footer{
+	background-color: #F4EAE8;
+	width: 915px;
+	height:50px; 
+	padding: 10px;
+	margin: 10px;
+}
+#nav{
+	background-color: #F4EAE8;
+	width: 915px;
+	height:560px; 
+	padding: 10px;
+	margin: 10px;
+border-radius: 15px;
+}
+img{
+	width: 500px;
+	height: 552px;
+}
+
+
+
+ #feature{
+	background-color:#F4EAE8;
+	width: 915px;
+	height:500px; 
+	padding: 10px;
+	margin: 10px;
+	border-radius: 15px;
+}
+#video{
+width: 915px;
+height:500px; 
+
+
+}
+.co1, .co2, .co3{
+background-color: #efefef;
+width: 300px;
+height:300px; 
+float: left;
+margin: 10px;
+
+}
+.ima, .ima2, .ima3, .ima7, .ima8, .ima9{
+width: 300px;
+height:300px; 
+
+
+}
+.p1, .p2, .p3{
+background-color: #efefef;
+width: 300px;
+height:300px; 
+float: left;
+margin: 10px;
+
+}
+.a1, .a2, .a3{
+background-color: #F4EAE8;
+width: 287px;
+height:225px; 
+float: left;
+margin: 10px;
+font-size: 19px;
+padding: 6px;
+ text-transform: uppercase;
+ border-radius: 15px;
+
+}
+
+ul{
+	margin-left: 250px;
+	aling:center;
+}
+li{
+	display: inline;
+	padding: 5px;
+	border: 1px solid #7C7C7C;
+}
+#nav li{
+font-family: QuicksanBook, Helvica, Arial, sans-serif;
+background-color: #fff;
+
+}
+
+a{
+color: #363efc;
+text-decoration:none;
+
+}
+.a1:hover{
+	background-color:#F5A9D0;
+
+}
+.a2:hover{
+	background-color:#F5A9D0;
+
+}
+.a3:hover{
+	background-color:#F5A9D0;
+
+}
+.c1:hover{
+	background-color:#AC58FA;
+
+}
+.c2:hover{
+	background-color:#AC58FA;
+
+}
+.c3:hover{
+	background-color:#AC58FA;
+
+}
+#nav:hover{
+	background-color:#4214D0;
+
+}
+
